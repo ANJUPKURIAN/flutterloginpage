@@ -61,24 +61,11 @@ const HomeScreen({super.key});
                 fontSize: 10,
               ),
               ),
-              
+
             Icon(Icons.visibility,), 
             ],
           ),
-
-
-
-
-
-
-
-
-
-
-
-
-         
-        ],
+   ],
           
                
          ),
